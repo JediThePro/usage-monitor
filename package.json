@@ -1,5 +1,5 @@
 {
-  "name": "detectmemory",
+  "name": "measure-memory",
   "preferGlobal": true,
   "version": "1.0.0",
   "description": "A Command-Line tool. Measures Memory Usage, CPU, Cores, and Node Version.",
