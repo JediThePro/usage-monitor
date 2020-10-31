@@ -1,0 +1,24 @@
+{
+  "name": "detectmemory",
+  "preferGlobal": true,
+  "version": "1.0.0",
+  "description": "A Command-Line tool. Measures Memory Usage, CPU, Cores, and Node Version.",
+  "main": "app.js",
+  "bin": "./app.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "console-title": "^1.1.0",
+    "cpu-stat": "^2.0.1",
+    "memory-measurement": "^1.0.0",
+    "os": "^0.1.1",
+    "package": "^1.0.1",
+    "parse-ms": "^2.1.0",
+    "shalk": "^2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jedithepro",
+  "license": "MIT"
+}
